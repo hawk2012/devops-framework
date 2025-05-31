@@ -6,7 +6,9 @@
 
 ---
 
-| ![Screen](screen.png) | ![Screen 1](screen1.png) |
+![Screen](screen.png)
+
+![Screen 1](screen1.png)
 
 ---
 
