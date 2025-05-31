@@ -151,7 +151,7 @@ devops-framework/
 
 ---
 
-## 📄 Makefile команды
+## 📄 Команды Makefile
 
 ```bash
 make install-deps     # Установить зависимости
